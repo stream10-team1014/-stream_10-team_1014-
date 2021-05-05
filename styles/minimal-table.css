@@ -26,9 +26,9 @@ ul.navbar li {
 ul.navbar a {
   text-decoration: none }
 a:link {
-  color: blue }
+  color: black }
 a:visited {
-  color: purple }
+  color: black }
 address {
   margin-top: 1em;
   padding-top: 1em;
