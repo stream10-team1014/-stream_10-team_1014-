@@ -2,6 +2,15 @@ Simon - Technology/Topic references:
 1) Cyber attack 10 year rate image:
 https://purplesec.us/resources/cyber-security-statistics/
 
+2) $1 trillion in 2020
+https://www.washingtonpost.com/politics/2020/12/07/cybersecurity-202-global-losses-cybercrime-skyrocketed-nearly-1-trillion-2020/
+
+3) General small to medium business statistics
+https://www.thesslstore.com/blog/15-small-business-cyber-security-statistics-that-you-need-to-know/
+
+4) Spending on cyber-security
+https://www.statista.com/statistics/991304/worldwide-cybersecurity-spending/
+
 Chris - Choices
 Personal choices:
 https://www.police.govt.nz/advice-services/cybercrime-and-internet/internet-safety
