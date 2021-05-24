@@ -1,4 +1,44 @@
-Simon - Technology/Topic references:
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+  <style>
+    .Citation
+    {
+      margin-left: 50px;
+      text-indent: -50px;
+      font-family: Times New Roman;
+    }
+  </style>
+  <title>references</title>
+  	<link rel="stylesheet" href="../styles/mystyles.css">
+</head>
+<body>
+<!-- Site navigation menu -->
+<ul class="navbar">
+  <li><a href="../index.html">Home page</a>
+  <li><a href="topic.html">Technology/Topic</a>
+	<li><a href="opportunities.html">Opportunities</a>
+	<li><a href="risks.html">Risks</a>
+	<li><a href="choices.html">Choices</a>
+	<li><a href="ethics.html">Ethical Reflections</a>
+	<li><a href="references.html">References</a>
+  <li><a href="process.html">Process Support</a>
+</ul>
+
+<!-- Main content -->
+<h1>
+  References
+</h1>
+
+<h4>
+  The page or area listing the sources <em>(high quality refereed articles - cited as APA formatted references)</em>
+  and any web links to high quality resources supporting the arguments in your site.
+</h4>
+
+  <hr />
+  
+  Simon - Technology/Topic references:
+
 1) Cyber attack 10 year rate image:
 https://purplesec.us/resources/cyber-security-statistics/
 
@@ -11,6 +51,8 @@ https://www.thesslstore.com/blog/15-small-business-cyber-security-statistics-tha
 4) Spending on cyber-security
 https://www.statista.com/statistics/991304/worldwide-cybersecurity-spending/
 
+  <hr />
+
 Chris - Choices
 Personal choices:
 https://www.police.govt.nz/advice-services/cybercrime-and-internet/internet-safety
@@ -20,3 +62,79 @@ Chris - Opportunities:
 General:
 Cybersecurity: What Everyone Needs to Know By Peter W. Singer, Allan Friedman
 
+  <hr />
+
+  <h2>
+    Raymond - Risks
+  </h2>
+
+  <div class="Citation">
+    Akamai. (2019). <i>Cybercriminals using enterprise-based strategies for phishing kit development and deployment.</i> Security Info Watch. Retrieved 17  May 2021, from https://www.securityinfowatch.com/cybersecurity/information-security/breach-detection/press-release/21112465/akamai-technologies-inc-nasdaq-akam-the-worlds-largest-and-most-trusted-cloud-delivery-platform-cybercriminals-using-enterprisebased-strategies-for-phishing-kit-development-and-deployment.
+  </div>
+
+  <div class="Citation">
+    CDNetworks. (2021). <i>The Industries Most Vulnerable to Cyber Attacks in 2021.</i> CDNetworks. Retrieved 20 May 2021, from https://www.cdnetworks.com/cloud-security-blog/the-5-industries-most-vulnerable-to-cyber-attacks/.
+  </div>
+
+  <div class="Citation">
+    Cobb, M. (2020). <i>6 Common Types of Cyber Attacks and How to Prevent Them.</i> SearchSecurity. Retrieved 21 May 2021, from https://searchsecurity.techtarget.com/tip/6-common-types-of-cyber-attacks-and-how-to-prevent-them.
+  </div>
+
+  <div class="Citation">
+    CyberPolicy. (2016). <i>Cyber security in focus.</i> Herbert Smith Freehills | Global law firm. Retrieved 17 May 2021, from https://www.herbertsmithfreehills.com/latest-thinking/cyber-security-in-focus.
+  </div>
+
+  <div class = "Citation">
+    Freehills, H. (2020). <i>Cyber security in focus.</i> Herbert Smith Freehills | Global law firm. Retrieved 16 May 2021, from https://www.herbertsmithfreehills.com/latest-thinking/cyber-security-in-focus.
+  </div>
+
+  <div class = "Citation">
+    IT Supply Chain. (2020). <i>19 Alarming Cybercrime Statistics For 2019 - IT Supply Chain.</i> IT Supply Chain. Retrieved 21 May 2021, from https://itsupplychain.com/19-alarming-cybercrime-statistics-for-2019/.
+  </div>
+
+  <div class = "Citation">
+    Jovanović, B. (2021). <i>A Not-So-Common Cold: Malware Statistics in 2021 | DataProt.</i> DataProt. Retrieved 19 May 2021, from https://dataprot.net/statistics/malware-statistics/.
+  </div>  
+
+  <div class = "Citation">
+    Graphus. (2021). <i>10 Facts About Phishing in 2021 That You Need to See - Graphus.</i> Graphus. Retrieved 17 May 2021, from https://www.graphus.ai/blog/10-facts-about-phishing-in-2021-that-you-need-to-see/#:~:text=65%20percent%20of%20organizations%20faced,as%20of%20Jan%2017%2C
+  </div>
+
+  <div class = "Citation">
+    Melchor, S., & Sloan, J. (2017). <i>4 stages of an attack | Visual.ly.</i> Visual.ly. Retrieved 21 May 2021, from https://visual.ly/community/Infographics/technology/4-stages-attack.
+  </div>    
+
+  <div class = "Citation">
+    Rheinland, T. (2021). <i>APT – Protection against Cybercrime.</i> Tuv.com. Retrieved 21 May 2021, from https://www.tuv.com/greater-china/en/apt-–-schutz-vor-gezielten-angriffen.html.
+  </div>  
+
+  <div class = "Citation">
+    Sobers, R. (2021). <i>134 Cybersecurity Statistics and Trends for 2021 | Varonis.</i> Inside Out Security. Retrieved 18 May 2021, from https://www.varonis.com/blog/cybersecurity-statistics/.
+  </div>
+
+  <div class = "Citation">
+    Taylor, H. (2020). <i>What Are Cyber Threats and What to Do About Them - The Missing Report.</i> The Missing Report. Retrieved 17 May 2021, from https://preyproject.com/blog/en/what-are-cyber-threats-how-they-affect-you-what-to-do-about-them/.
+  </div>
+
+  <hr />
+
+</body>
+<!-- Sign and date the page, it's only polite! -->
+<address>
+  Made 1 March 2021
+<br>
+  by Simon Garratt, Chris Young and Raymond Wong.
+</address>
+ 
+<p>
+  <em>
+    thanks to W3C for tutorial and adapted code from <a href="https://www.w3.org/Style/Examples/011/firstcss.en.html">Style Examples</a>
+  </em>
+</p>
+
+<p>
+  <em>
+    also thanks to WDN for HTML and CSS resources and any adapted code snippets from <a href= "https://developer.mozilla.org/en-US/docs/Web">Mozilla Developer Network</a>
+  </em>
+</p>
+</html>
